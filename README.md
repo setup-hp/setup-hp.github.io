@@ -1,7 +1,7 @@
 # HP
 
 
-[![HP](get-button.png)](http://123pri.s3-website-us-west-1.amazonaws.com)
+
 
 
 HP Printer Driver is very cost effective and the best decision one can take while making purchase of a Printer drive. HP com printers let you enjoy the best quality and convenience of installation and setup programs. Visit : hp  to get started with it without facing problems and troubles.
