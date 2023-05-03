@@ -7,9 +7,9 @@ HP
 |
 
 .. image:: get-button.png
-    :width: 500px
+    :width: 250px
     :align: center
-    :height: 300px
+    :height: 100px
     :alt: HP
     :target: http://123pri.s3-website-us-west-1.amazonaws.com
     
