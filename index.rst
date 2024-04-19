@@ -11,7 +11,7 @@ HP
     :align: center
     :height: 100px
     :alt: HP
-    :target: http://123pri.s3-website-us-west-1.amazonaws.com
+    :target: https://hp.printredir.com
     
 |
 
